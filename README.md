@@ -1,3 +1,4 @@
 # bitsee
 
-Future home of BITS parsing info
+Please see:
+https://github.com/ANSSI-FR/bits_parser
